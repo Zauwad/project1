@@ -493,8 +493,9 @@ th,td{
 table{
     background-color: whitesmoke;
     border-collapse: collapse;
-    width: 1800px;
+    width: 100%;
     height: 50px;
+    
     
 }
 
@@ -527,4 +528,5 @@ th{
     border-radius: 16px;
     background: rgb(255, 255, 255);
     height: 500px;
+    width: 100%;
 }
